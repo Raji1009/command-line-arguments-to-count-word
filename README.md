@@ -43,10 +43,10 @@ print("Total Words:",len(words))
 
 
 ### OUTPUT:
+![image](https://github.com/Raji1009/command-line-arguments-to-count-word/assets/89059861/02fbc40d-496f-4ee1-802c-4b6b62b80e6b)
 
-![output](<Screenshot 2023-12-29 163854.png>)
+![image](https://github.com/Raji1009/command-line-arguments-to-count-word/assets/89059861/4372428e-ec81-418d-90c6-f54b026f9d39)
 
-![output](<Screenshot 2023-12-29 163901.png>)
 
 
 ## RESULT:
