@@ -30,11 +30,10 @@ Run the program to determine the number of words in the file created.
 ## PROGRAM:
 
 ```
-```
-To find the word count using command line arguments
-Developed by : Rajalakshmi R
-Reg no : 212223110037
-```
+#To find the word count using command line arguments
+#Developed by : Rajalakshmi R
+#Reg no : 212223110037
+
 fp= open(sys.argv[1])
 data=fp.read()
 words=data.split()
